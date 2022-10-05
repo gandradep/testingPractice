@@ -1,0 +1,23 @@
+{
+  "name": "testingpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gandradep/testingPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gandradep/testingPractice/issues"
+  },
+  "homepage": "https://github.com/gandradep/testingPractice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
